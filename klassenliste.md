@@ -17,7 +17,7 @@
 |Mattias |        |
 |Michel  |        |
 |Mirco   |        |
-|Nico    |        |
+|Nico    |    X   |
 |Nowlan  |        |
 |Rayan   |        |
 |Supatra |        |
